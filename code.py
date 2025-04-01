@@ -118,7 +118,7 @@ line1.y = 7
 line2 = adafruit_display_text.label.Label(
     font=terminalio.FONT,
     color=0xFBFF00,
-    text="Patriot Beverages, MA Dept of Elementary and Secondary Education, Rep. Jim Arciero/Sen. Jamie Eldridge, Bruce & Sue Bonner, Deployed Resources, MITRE, Symbotic, Gene Haas Foundation, UMass Lowell Research Institute, Amazon, Raytheon, ZOLL Medical, Boston Scientific, TE Connectivity, Formlabs, Workers Credit Union, Tuck & Tuck Architects, Earle Industries, Brian & Trina Miller, EMD Millipore, ETM Manufacturing, PTC/OnShape, Tari Radin")
+    text="Patriot Beverages, Deployed Resources, Bruce & Sue Bonner, Cameron Wilhelm, Symbotic, Broomfield, ZOLL, Tuck & Tuck Architects, Main Street Bank, Northstar Campus/UMLRI, Walmart ASR, Mevion, The Furniture Trust, Polymershapes, Intuitive Foundation, TE Connectivity, Boston Scientific, Formlabs, Brian & Trina Miller, New England ENT, Gene Haas Foundation, Michelle & Chris Tuck, Cameron Earle, Red Hat, Massachusetts Cultural Council, PTC")
 line2.x = display.width
 line2.y = 22
 
